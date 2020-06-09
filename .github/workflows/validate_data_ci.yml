@@ -29,6 +29,7 @@ jobs:
         cd ..
 
 
+    # `git push` would fail on `fatal: You are not currently on a branch` without `remote set-url`
     - name: Rewrite data, generate ids, commit
       run: |
         echo github_ref: ${{ github.ref }}
@@ -36,7 +37,8 @@ jobs:
         git add reports
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "CI: Automated build push" -a | exit 0
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        git commit -m "Automated data fixes" -a | exit 0
         git push
 
     # Inspired by https://github.com/marketplace/actions/generate-documentation
