@@ -19,7 +19,7 @@ id: il-chicago-2
 
 **Links**
 
-*  https://twitter.com/LUVRGRLLANI/status/1266866301001179136
+* https://twitter.com/LUVRGRLLANI/status/1266866301001179136
 
 
 ### Police pepperspray reporter for recording | May 30th
@@ -62,6 +62,7 @@ Police are seen attacking a car and pulling two black women out of a car and sho
 id: il-chicago-4
 
 **Links**
+
 * https://twitter.com/cruzzzyc/status/1267185423333199874
 * https://twitter.com/AdrienneWrites/status/1267534983054254081
 * https://blockclubchicago.org/2020/06/03/black-women-pulled-from-car-kneeled-on-by-chicago-police-officers-outside-northwest-side-mall-i-was-scared-for-my-life/
@@ -71,7 +72,6 @@ id: il-chicago-4
 ### Cops hit Chicago Police Board President | May 31st
 
 Cops struck Ghian Foreman, the Chicago Police Board President, five times in the legs with batons. He has filed a complaint with the Citizens Office of Police Accountability.
-
 Location: Hyde Park
 
 id: il-chicago-6
@@ -112,6 +112,7 @@ CPD officer chasing down and punching a protestor who was walking away.
 id: il-chicago-7
 
 **Links**
+
 * https://www.youtube.com/watch?time_continue=44&v=_urY-W8otNA
 * https://chicago.suntimes.com/crime/2020/6/3/21279501/police-video-cpd-officer-punch-protester-uptown-investigation-copa
 
@@ -124,7 +125,7 @@ id: il-chicago-8
 
 **Links**
 
-*  https://twitter.com/BLMChi/status/1267486699321544704
+* https://twitter.com/BLMChi/status/1267486699321544704
 
 
 ### Police grab protester and throw into brick wall | June 2nd
@@ -147,7 +148,6 @@ id: il-chicago-9
 **Links**
 
 * https://twitter.com/TomSchuba/status/1268312957752160257
-
 
 ## Joliet
 

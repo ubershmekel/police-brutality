@@ -14,9 +14,7 @@ id: ny-buffalo-1
 ### Police shove elderly man, causing him to fall and hit the back of his head | June 4th
 
 Two police officers shove an unarmed, elderly man ([reportedly 75 years old](https://twitter.com/HannahBuehler/status/1268742666210226177)), who falls backwards and strikes his head on the concrete sidewalk. He appears to begin bleeding from his ear and passes out.
-
 Buffalo P.D. released an official statement saying that he "tripped and fell." They have now opened an investigation into the incident Buffalo Police Commissioner Byron Lockwood has [reportedly](https://twitter.com/HannahBuehler/status/1268732415259955202) ordered the suspension of both officers involved.
-
 Location: [Outside City Hall, Niagara Square](https://www.google.com/maps/place/42%C2%B053'11.6%22N+78%C2%B052'44.1%22W/@42.886546,-78.8794732,19z)
 
 id: ny-buffalo-2
@@ -38,11 +36,9 @@ id: ny-buffalo-3
 
 **Links**
 
-*  https://twitter.com/PhotoJazzy/status/1269056626843099137
-
+* https://twitter.com/PhotoJazzy/status/1269056626843099137
 
 ## New York City
-
 
 ### Police shove woman to the ground, inducing a seizure | May 29th
 
@@ -278,6 +274,7 @@ id: ny-newyorkcity-22
 
 ### NYPD Officers hit and knock down a protestor and a journalist | June 4th
 
+
 id: ny-newyorkcity-23
 
 **Links**
@@ -316,7 +313,6 @@ id: ny-newyorkcity-26
 **Links**
 
 * https://www.reddit.com/r/Brooklyn/comments/gy40fz/nypd_aggressively_arrest_cyclist_on_blm_group_ride/?utm_source=share&utm_medium=web2x
-
 
 ## Rochester
 

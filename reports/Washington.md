@@ -9,7 +9,6 @@ id: wa-seattle-1
 **Links**
 
 * https://mobile.twitter.com/chadloder/status/1267011092045115392
-* 2020OPA-0324 - May 30 - "Placing the knee on the neck area of two people who had been arrested" (possibly)
 
 
 ### Police beat unarmed man on the ground | May 31st
@@ -21,7 +20,6 @@ id: wa-seattle-2
 **Links**
 
 * https://twitter.com/gunduzbaba1905/status/1266937500607614982
-* Seattle OPA Case 2020OPA-0330
 
 
 ### Police indiscriminately pepper spray peaceful protesters | May 31st
@@ -44,7 +42,6 @@ id: wa-seattle-4
 **Links**
 
 * https://www.fox10phoenix.com/news/video-shows-milk-poured-over-face-of-child-pepper-sprayed-in-seattle-protest
-* Seattle OPA Case 2020OPA-0322
 
 
 ### Police throw tear gas at peaceful protestors | May 31st
@@ -53,7 +50,7 @@ A sheriff throws a canister of tear gas into a crowd of peaceful protestors.
 
 id: wa-seattle-8
 
-**Links** 
+**Links**
 
 * https://www.reddit.com/r/Seattle/comments/gu3qq1/cop_just_casually_tosses_tear_gas_at_my_feet_like/
 * [Location via Google Street View](https://www.google.ca/maps/@47.6117535,-122.3363867,3a,75y,340.76h,98.03t/data=!3m7!1e1!3m5!1s3_dezBzQDIEjlJ1L0qu2QA!2e0!6s%2F%2Fgeo1.ggpht.com%2Fcbk%3Fpanoid%3D3_dezBzQDIEjlJ1L0qu2QA%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D141.4241%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)
@@ -101,9 +98,10 @@ Police pepper spray peacefully protesting crowd.
 
 id: wa-seattle-9
 
+**Links**
+
 * [Rooftop view](https://www.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/)
 * [View from the ground](https://www.reddit.com/r/PublicFreakout/comments/gv1spo/the_moment_seattle_police_instigate_a_riot_over_a/)
-* Seattle OPD Case 2020OPA-0334
 
 
 ### Police strike active newscrew with flashbang | June 1st
@@ -112,8 +110,9 @@ Police strike a journalist, Jo-Ling Kent, live on air with a flashbang.
 
 id: wa-seattle-10
 
+**Links**
+
 * [MSNBC video clip](https://twitter.com/Acyn/status/1267673936659021830?s=20)
-* Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
 
 
 ### Officers deploy flashbangs and pepper spray peaceful protesters | June 2nd
@@ -143,7 +142,7 @@ id: wa-seattle-11
 
 ### Police kettle protesters to force them to disperse through tear-gas | June 6th
 
-Seattle Police told protesters disperse, but then used bikes to block exits. Forced them through tear-gas, mace, flashbangs. 
+Seattle Police told protesters disperse, but then used bikes to block exits. Forced them through tear-gas, mace, flashbangs.
 
 id: wa-seattle-13
 
@@ -175,15 +174,3 @@ id: wa-seattle-14
 
 * [Video showing individual getting hit with projectile (0:11), falling down, and becoming unresponsive. Medics carry them away from police.](https://twitter.com/chaseburnsy/status/1269890344331571201)
 * [Firsthand account from the medic](https://www.reddit.com/r/Seattle/comments/gywxhz/folks_i_need_your_help/)
-
-
-### Additional Seattle OPA Case Numbers
-
-* 2020OPA-0323 - May 29 - "Punching a person on the ground who was being arrested"
-* 2020OPA-0324 - May 30 - "Placing the knee on the neck area of two people who had been arrested"
-* 2020OPA-0326 - May 30 - "Pepper spraying peaceful protesters"
-* 2020OPA-0328 - May 30 - "The use of flashbangs, including causing a significant thumb injury"
-* 2020OPA-0332 - June 1 - "A confrontation between an officer and a male"
-* 2020OPA-0335 - June 1 - "Homeless man hit by an SPD flashbang while sleeping"
-
-[Source - Twitter @SeattleOPA](https://twitter.com/SeattleOPA)

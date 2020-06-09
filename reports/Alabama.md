@@ -8,7 +8,7 @@ id: al-huntsville-1
 
 **Links**
 
-*  https://twitter.com/ETfonehome97/status/1267657232411435008
+* https://twitter.com/ETfonehome97/status/1267657232411435008
 
 
 ### Police officer pepper sprays protestors for no reason | June 3rd
@@ -19,7 +19,7 @@ id: al-huntsville-2
 
 **Links**
 
-*  https://twitter.com/bitchthot420/status/1268350308398268416
+* https://twitter.com/bitchthot420/status/1268350308398268416
 
 
 ### Police tear gas reporters | June 3rd
@@ -30,7 +30,7 @@ id: al-huntsville-3
 
 **Links**
 
-*  https://twitter.com/greg_doucette/status/1268397070563414016
+* https://twitter.com/greg_doucette/status/1268397070563414016
 
 
 ### Police preemptively tear gas peaceful protestors | June 3rd
@@ -41,13 +41,12 @@ id: al-huntsville-4
 
 **Links**
 
-*  https://www.alreporter.com/2020/06/03/huntsville-police-deploy-tear-gas-rubber-bullets-on-protesters/
+* https://www.alreporter.com/2020/06/03/huntsville-police-deploy-tear-gas-rubber-bullets-on-protesters/
 
 
 ### Police fire rubber bullets on dispersing crowd | Believed to be June 5th
 
 After disperse order is given, protestors comply and begin to back away from the police line. Police fire rubber bullets at dispersing protestors and harrass woman (filmer) who has been shot in the leg and is unable to move quickly.
-
 June 5th date determined by Reddit submitter stating video, which is stamped "1d ago", to have been uploaded on June 6th, 2020. Confirmed that mass protests did occurr in Hunstville on June 5th.
 
 id: al-huntsville-5

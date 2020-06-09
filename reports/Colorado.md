@@ -11,7 +11,6 @@ id: co-coloradosprings-1
 * https://www.facebook.com/Shawn.R.Russ/videos/10221345617964005/
 * https://www.kktv.com/content/news/Colorado-Springs-police-issue-statement-following-use-of-force-arrest-during-protest-570969681.html
 
-
 ## Denver
 
 ### Reporter shot with multiple pepper balls | May 28th
@@ -63,7 +62,7 @@ id: co-denver-4
 
 ### Police discharge tear gas into group of protesters | May 29th
 
-An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge. 
+An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge.
 
 id: co-denver-13
 

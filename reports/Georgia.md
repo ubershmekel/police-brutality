@@ -49,9 +49,9 @@ id: ga-atlanta-4
 * https://twitter.com/ANGELCUCCl/status/1266939757252280321
 
 
-### Photographer tackled to the ground by four police officers | May 30th 
+### Photographer tackled to the ground by four police officers | May 30th
 
-A man with a camera around his neck is tackled to the ground and cuffed by four officers on live TV.  
+A man with a camera around his neck is tackled to the ground and cuffed by four officers on live TV.
 
 id: ga-atlanta-5
 
@@ -68,9 +68,9 @@ Police shove and shoot protesters; one man shot in the head, he is seen being ca
 id: ga-atlanta-6
 
 **Links**
+
 * https://www.facebook.com/onlettingo/videos/10157072617626056
 * https://www.facebook.com/kristajeannettewilliamson/posts/3334778089868526
-
 
 ## Lawrenceville
 

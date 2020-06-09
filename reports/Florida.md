@@ -21,7 +21,6 @@ id: fl-fortlauderdale-2
 
 * https://www.miamiherald.com/news/local/community/broward/article243193481.html
 
-
 ## Miami
 
 ### Man tackled to ground after speaking to police | May 31st
@@ -33,7 +32,6 @@ id: fl-miami-1
 **Links**
 
 * https://twitter.com/BillyCorben/status/1267644127178563588
-
 
 ## Orlando
 
@@ -58,7 +56,6 @@ id: fl-orlando-2
 
 * https://twitter.com/greg_doucette/status/1269017349727928320
 * [Location on Google Maps](https://www.google.com/maps/place/29+W+South+St,+Orlando,+FL+32801,+USA/@28.5384293,-81.3797504,20z/data=!4m5!3m4!1s0x88e77b01dadbb26d:0x1a303f1fe28f7d51!8m2!3d28.5384616!4d-81.3801581)
-
 
 ## Tampa
 

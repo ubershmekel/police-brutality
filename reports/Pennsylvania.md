@@ -12,7 +12,6 @@ id: pa-erie-1
 * https://twitter.com/the7goonies/status/1266989439160590336
 * [Article on the event from PAPost](https://papost.org/2020/05/31/erie-woman-who-was-kicked-by-police-officer-saysi-was-100-percent-peaceful/)
 
-
 ## Harrisburg
 
 ### Police pepperspray protesters helping someone stand up | May 30th
@@ -24,7 +23,6 @@ id: pa-harrisburg-1
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266862623041167362
-
 
 ## Philadelphia
 
@@ -39,7 +37,7 @@ id: pa-philadelphia-1
 * https://twitter.com/UR_Ninja/status/1266913490301792257
 
 
-### Police drag cooperating man from car and punch him in the face
+### Police drag cooperating man from car and punch him in the face | 
 
 A black SUV stops while at least a dozen police on bicycles pull up to it. The police open the vehicle's front doors. The passenger is pulled to the ground and then cuffed by several officers. The driver is pushed against the side of the vehicle and cuffed. As both are led to an area behind the vehicle, one officer yells inches away from the passenger's face, then punches him in the face. After the passenger is led away, the same officer walks back up to the passenger, grabs his shirt, and yells at him at close distance.
 
@@ -65,7 +63,6 @@ id: pa-philadelphia-3
 ### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them and Shoot Rubber Bullets | June 1st
 
 An estimated 3000-5000 protesters moved onto Interstate 676, stopping traffic. Protesters move into a tunnel under 20th street. An eye-witness states that officers inside the tunnel (eastbound on I-676) began shooting rubber bullets and macing protesters without any warning or any instructions to halt the protest on the highway. Protesters clear the tunnel, many kneel and put their hands up. Police shoot tear gas at protesters to disperse the crowd, they escape to the hill between 20th and 21st street as there was tear gas westbound on the interstate and they were still being fired at by officers in the tunnel to the east. Some throw canisters back. Officers chase protesters up the hill and appear to detain a number of them. Other officers continue to fire tear gas on to the hill, despite the only visible escape from the tear gas being over a ~10 ft fence.
-
 Location: [Interstate 676 between N 20th/21st St](https://www.google.com/maps/place/2053+Vine+St,+Philadelphia,+PA+19103,+USA/@39.9595383,-75.1746173,18z/data=!3m1!4b1!4m5!3m4!1s0x89c6c634c7345f49:0x40d2e85b82db34fb!8m2!3d39.9595362!4d-75.173523)
 
 id: pa-philadelphia-4
@@ -108,13 +105,13 @@ id: pa-philadelphia-7
 
 ### Officer attacks woman for no apparent reason | June 1st
 
-An officer (fat, white shirt) is seen grabbing a woman and then attacking her before dragging her into custody. The woman did not make any apparent provocation towards the officer. 
+An officer (fat, white shirt) is seen grabbing a woman and then attacking her before dragging her into custody. The woman did not make any apparent provocation towards the officer.
 
 id: pa-philadelphia-8
 
 **Links**
 
-*  https://twitter.com/tippedminimum/status/1268001268406136832
+* https://twitter.com/tippedminimum/status/1268001268406136832
 
 
 ### Police kneel on man who says "I can't breathe", officer yells profanities back | believed to be June 3rd
@@ -127,10 +124,9 @@ id: pa-philadelphia-6
 
 * https://twitter.com/greg_doucette/status/1268200800649707526
 
-
 ## Pittsburgh
 
-### Officer pepper-sprays a woman who is on her knees with her hands up
+### Officer pepper-sprays a woman who is on her knees with her hands up | 
 
 A woman in East Liberty gets onto her knees and puts her hands in the air, while repeatedly yelling "we're peaceful, don't shoot!" Officers approach her and one of them sprays pepper spray onto her. The woman who recorded the video, Abigail Rubio, claims the police returned the next day and claimed they had video evidence of her throwing items off her balcony at them, a claim she denies and says was meant to intimidate her after posting the video. She filed a complaint with the local Citizen Review Board
 

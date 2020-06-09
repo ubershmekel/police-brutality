@@ -10,7 +10,6 @@ id: wi-madison-1
 
 * https://twitter.com/NeonMarionette/status/1266962885957292032?s=20
 
-
 ## Milwaukee
 
 ### Police restrain man using knee on neck | June 2nd

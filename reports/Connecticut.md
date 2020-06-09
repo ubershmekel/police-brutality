@@ -22,5 +22,3 @@ id: ct-waterbury-1
 **Links**
 
 * https://twitter.com/Youbeenafannn/status/1268253924471037959
-
-

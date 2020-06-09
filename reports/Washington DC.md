@@ -1,3 +1,5 @@
+## DC
+
 ### Riot Police rams shield into BBC cameraman | May 31st
 
 A BBC cameraman was charged at by police and hit with a shield.
@@ -35,9 +37,9 @@ id: dc-dc-2
 * https://twitter.com/ASB_Breaking/status/1267596043870486528
 * https://twitter.com/i/status/1267597024096137217
 * https://twitter.com/i/status/1267606685767667712
-* Alternate footage: https://v.redd.it/qf9vf0hdrd251
-* Mirror of alternate footage: https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484
-* CW: Blood: https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/
+* [Alternate footage:](https://v.redd.it/qf9vf0hdrd251)
+* [Mirror of alternate footage:](https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484)
+* [CW: Blood:](https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/)
 
 
 ### Protestors are quickly and violently pushed out of Lafayette Square | June 1
@@ -56,7 +58,7 @@ id: dc-dc-3
 * https://twitter.com/nytimes/status/1267638330654625794
 
 
-### Officer fires tear gas cannister at protestor's head |
+### Officer fires tear gas cannister at protestor's head | 
 
 DCPD officer aims tear gas cannister at protestor's head, narrowly misses.
 
