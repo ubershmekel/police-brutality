@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T23:05:47.613210+00:00
+UPDATED AT: 2020-06-09T23:27:07.889016+00:00
 
 
 # Alabama
@@ -692,7 +692,6 @@ id: co-coloradosprings-1
 
 He states the officer aimed at him, and the pepper balls broke his press badge and drew blood
 
-id: co-denver-1
 
 **Links**
 
