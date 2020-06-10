@@ -9,7 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    # `git push` would fail on `fatal: You are not currently on a branch` if `ref` was
+    # not specified here.
     - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
 
     - name: Set up Python 3.x
       uses: actions/setup-python@v2
@@ -29,7 +33,6 @@ jobs:
         cd ..
 
 
-    # `git push` would fail on `fatal: You are not currently on a branch` without `remote set-url`
     - name: Rewrite data, generate ids, commit
       run: |
         echo github_ref: ${{ github.ref }}

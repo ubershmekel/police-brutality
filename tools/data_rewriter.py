@@ -108,6 +108,7 @@ row_format = '''
 ### {name} | {date_text}
 
 {description}
+
 id: {id}
 
 **Links**

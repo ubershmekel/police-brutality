@@ -3,6 +3,7 @@
 ### Police pepper spray and arrest protestor holding sign | May 30th
 
 
+
 id: mo-kansascity-5
 
 **Links**
@@ -35,6 +36,7 @@ id: mo-kansascity-1
 
 
 ### Kansas City police attempt to arrest a man leading the protest then spray the crowd | May 31st
+
 
 
 id: mo-kansascity-2
