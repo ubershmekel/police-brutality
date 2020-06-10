@@ -13,8 +13,6 @@ An officer tackles a protestor that is walking home. The officer screams "put yo
 
 bla bla testing.
 
-id: az-phoenix-qure
-
 **Links**
 
 * https://cnn.com
