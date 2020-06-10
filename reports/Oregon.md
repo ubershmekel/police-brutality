@@ -3,7 +3,6 @@
 ### Officer shoots projectile from moving vehicle | June 1st
 
 An officer shoots a projectile out of a moving vehicle, striking pedestrian near eyeball.
-
 This incident took place at in Eugene, OR. Specific area not identified.
 
 id: or-eugene-1
@@ -12,7 +11,6 @@ id: or-eugene-1
 
 * https://www.reddit.com/r/Eugene/comments/gurr9r/police_shoot_projectile_from_moving_vehicle_hit/
 * [Direct link to video](https://streamable.com/9h2tk3)
-
 
 ## Portland
 
@@ -24,7 +22,7 @@ id: or-portland-1
 
 **Links**
 
-* https://twitter.com/IwriteOK/status/1266907719635632129 Timestamp: 18:46
+* [Timestamp: 18:46](https://twitter.com/IwriteOK/status/1266907719635632129)
 * https://twitter.com/MrOlmos/status/1266916861267996673
 
 

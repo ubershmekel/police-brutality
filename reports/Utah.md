@@ -7,6 +7,7 @@ The old man was shoved and pushed by the police, which led him to hit the railin
 id: ut-saltlakecity-1
 
 **Links**
+
 * https://twitter.com/bubbaprog/status/1266908354821206016
 
 
@@ -42,5 +43,3 @@ id: ut-saltlakecity-3
 **Links**
 
 * https://v.redd.it/fl4y919v1q251
-
-

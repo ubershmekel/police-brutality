@@ -46,7 +46,6 @@ id: in-fortwayne-4
 * https://twitter.com/notbalin/status/1266972999296704513
 * https://mobile.twitter.com/chadloder/status/1267279165230743553/photo/2
 
-
 ## Indianapolis
 
 ### Police confiscate medical supplies from medical station | May 29th
@@ -72,7 +71,6 @@ id: in-indianapolis-2
 * https://www.reddit.com/r/PublicFreakout/comments/guffju/indianapolis_police_on_women_rights/
 * https://twitter.com/greg_doucette/status/1268391718086422528
 
-
 ## Lafayette
 
 ### Officer drops tear gas into peaceful protest without warning | Possibly May 31st
@@ -84,4 +82,4 @@ id: in-lafayette-1
 **Links**
 
 * https://www.facebook.com/ctchoula/videos/10163707272210302/
-* [Image of a tear gas canister used in this incident](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/101254362_755196441884833_7192544661301362688_n.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=wjDZM1x0RLYAX9sKPft&_nc_ht=scontent-ort2-2.xx&oh=606a9dbf10d30a680c5dcb2c8ae8d7ce&oe=5EFD314B).
+* [Image of a tear gas canister used in this incident]().](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/101254362_755196441884833_7192544661301362688_n.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=wjDZM1x0RLYAX9sKPft&_nc_ht=scontent-ort2-2.xx&oh=606a9dbf10d30a680c5dcb2c8ae8d7ce&oe=5EFD314B)

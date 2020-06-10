@@ -8,7 +8,7 @@ id: nv-lasvegas-3
 
 **Links**
 
-*  https://twitter.com/itsraiialex/status/1266770032719040513
+* https://twitter.com/itsraiialex/status/1266770032719040513
 
 
 ### Police shove and drag man through the street | May 31st

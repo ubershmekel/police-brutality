@@ -1,7 +1,7 @@
 ## Austin
 
-
 ### Police assault protesters | (believed to be) May 30th
+
 A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters.
 
 id: tx-austin-2
@@ -14,7 +14,6 @@ id: tx-austin-2
 ### Police shoot non-violent protestor in the head | May 30th
 
 Here, a non-violent protestor can be seen standing perfectly still when he is hit directly in the head by a rubber bullet and knocked to the floor.
-
 In the aftermath other protestors help the victim who is bleeding from a large head wound.
 
 id: tx-austin-3
@@ -23,8 +22,8 @@ id: tx-austin-3
 
 * https://www.reddit.com/r/PublicFreakout/comments/guwc4y/austin_tx_nonviolent_protestor_shot_in_the_head/
 * https://www.instagram.com/p/CA6TCIGnuWm/
-* https://www.youtube.com/watch?v=-BGyTi-KdKc (aftermath)
-* https://streamable.com/o1uqgy (aftermath)
+* [aftermath](https://www.youtube.com/watch?v=-BGyTi-KdKc)
+* [aftermath](https://streamable.com/o1uqgy)
 * https://cbsaustin.com/news/local/austin-teen-hospitalized-with-head-injury-after-police-shoot-him-with-bean-bags-at-protest
 
 
@@ -54,9 +53,8 @@ id: tx-austin-5
 
 ### Police critically injure 20 year old black protester during protests against police violence | May 31st
 
-A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage. 
-
-Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile. 
+A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
+Austin Police Chief confirms that police shot him with 'non-lethal' beanbag rounds and claims that he was not the intended target for the projectile.
 
 id: tx-austin-1
 
@@ -105,7 +103,6 @@ id: tx-austin-8
 * https://www.reddit.com/r/PublicFreakout/comments/gwbbjs/protestor_is_shot_in_head_with_rubber_bullet/
 * http://www.thebatt.com/opinion/opinion-his-name-is-justin-howell/article_93a79c44-a5b6-11ea-aa54-ebc0da33cc35.html?fbclid=IwAR11FqXr9dRCKo-ohfeBoO9FdYFRG2uon0nqAkxKO5gZuL_-4EzgukAGcBs
 
-
 ## Baytown
 
 ### Police officer tackles and knees man on the ground | June 2nd
@@ -118,7 +115,6 @@ id: tx-baytown-1
 
 * https://www.reddit.com/r/PublicFreakout/comments/gw2dpw/cop_in_baytown_tx_pulls_over_black_man_white_man/
 * https://www.facebook.com/isaiah.benavides.94/videos/2811815772219886/
-
 
 ## Dallas
 
@@ -169,7 +165,6 @@ id: tx-dallas-3
 * https://www.reddit.com/r/PublicFreakout/comments/gx9a5n/these_protests_took_place_on_june_2nd_in_dallas/
 * [Location on Google Maps](https://www.google.com/maps/place/Margaret+Hunt+Hill+Bridge,+Dallas,+TX,+USA/@32.781075,-96.8186896,15z/data=!4m5!3m4!1s0x0:0xe296574de7914f9f!8m2!3d32.781075!4d-96.8186896)
 
-
 ## Houston
 
 ### Police trample protester with horse | May 29th
@@ -193,7 +188,6 @@ id: tx-houston-2
 **Links**
 
 * https://twitter.com/AbkTrauma/status/1266511972524269569
-
 
 ## San Antonio
 

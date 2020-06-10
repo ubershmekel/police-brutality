@@ -66,7 +66,6 @@ id: mi-detroit-6
 
 * https://twitter.com/TheModLibrarian/status/1266587927783620613
 
-
 ## Grand Rapids
 
 ### Police spray unarmed man with pepperspray and shoot him in the face with a teargas canister | May 31st
@@ -81,7 +80,6 @@ id: mi-grandrapids-1
 * https://www.fox17online.com/news/local-news/grand-rapids/grpd-conducting-internal-investigation-after-viral-video-of-man-being-pepper-sprayed
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gv3xuu/police_in_grand_rapids_michigan_spray_a_man/
 
-
 ## Kalamazoo
 
 ### Police fire tear gas at prone protesters | June 1st
@@ -93,7 +91,7 @@ id: mi-kalamazoo-1
 **Links**
 
 * https://twitter.com/i/status/1267677463850745858
-* Source, at 33:40  https://www.facebook.com/BlaineBurnett11/videos/963503949886/
+* [Source, at 33:40](https://www.facebook.com/BlaineBurnett11/videos/963503949886/)
 
 
 ### Police fire tear gas at peaceful protesters | June 2nd
@@ -104,7 +102,7 @@ id: mi-kalamazoo-2
 
 **Links**
 
-* WOODTV8 live crew: https://streamable.com/xvlky1
-* Kalamazoo Gazette via Facebook Live: https://streamable.com/0wfiu3
-* MLive article: https://www.mlive.com/news/kalamazoo/2020/06/my-heart-was-wrenched-with-pain-assistant-chief-says-of-ordering-tear-gas-on-protesters.html
-* IBB image backup of Asst. Chief and City Manager kneeling: https://ibb.co/Fgrwqkj
+* [WOODTV8 live crew:](https://streamable.com/xvlky1)
+* [Kalamazoo Gazette via Facebook Live:](https://streamable.com/0wfiu3)
+* [MLive article:](https://www.mlive.com/news/kalamazoo/2020/06/my-heart-was-wrenched-with-pain-assistant-chief-says-of-ordering-tear-gas-on-protesters.html)
+* [IBB image backup of Asst. Chief and City Manager kneeling:](https://ibb.co/Fgrwqkj)

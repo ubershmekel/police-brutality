@@ -11,15 +11,12 @@ id: ca-clayton-1
 * https://twitter.com/CorinneAllen20/status/1268000716884283393
 * https://twitter.com/CliffBraun/status/1268038070667849728
 
-
 ## Compton
 
 ### Police beat person on the ground | (believed to be) June 1st
 
 Two police offers have someone pinned to the ground and proceed to kneel on their head/neck, punch and kick them. A third officer joins them, also striking the person.
-
 [Location determined via Google Streetview](https://www.google.com/maps/@33.9038142,-118.2141026,3a,75y,255.55h,58.86t/data=!3m6!1e1!3m4!1sDJvjgZKDPB56Yw1A5Ovb6A!2e0!7i16384!8i8192)
-
 [This Reddit comment](https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/fsolupz/) asserts these police are members of the LASD.
 
 id: ca-compton-1
@@ -27,7 +24,6 @@ id: ca-compton-1
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gvdl01/they_secluded_him_behind_a_wall_and_looked_around/
-
 
 ## Costa Mesa
 
@@ -41,7 +37,6 @@ id: ca-costa-mesa-1
 
 * https://old.reddit.com/r/orangecounty/comments/gvn42k/oc_sheriff_deputy_forgoing_his_name_badge_to_wear/
 
-
 ## Hollywood
 
 ### Law enforcement arrest people walking, you can hear on the radio “You should not be driving past anybody, stop and take somebody into custody”. | June 1st
@@ -53,7 +48,6 @@ id: ca-hollywood-1
 **Links**
 
 * https://twitter.com/AdoreDelano/status/1267688320735166465
-
 
 ## La Mesa
 
@@ -76,10 +70,9 @@ id: ca-lamesa-1
 
 **Links**
 
-* At approximately 10:20  https://www.facebook.com/100010947670361/videos/1115087385532840
+* [At approximately 10:20](https://www.facebook.com/100010947670361/videos/1115087385532840)
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
 * https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
-
 
 ## Long Beach
 
@@ -93,7 +86,6 @@ id: ca-longbeach-1
 
 * https://laist.com/2020/05/31/reporters_injured_protests_police.php
 * https://twitter.com/AGuzmanLopez/status/1267269781805137920
-
 
 ## Los Angeles
 
@@ -188,7 +180,7 @@ id: ca-losangeles-9
 * https://www.foxnews.com/media/marine-corps-veteran-shot-with-rubber-bullets-by-police-at-protest-i-had-my-hands-up
 
 
-### Los Angeles law enforcement beat protesters for no apparent reason.  | May 31st
+### Los Angeles law enforcement beat protesters for no apparent reason. | May 31st
 
 Los Angeles law enforcement beat protesters for no apparent reason.
 
@@ -258,7 +250,7 @@ id: ca-losangeles-14
 
 **Links**
 
-* https://streamable.com/ja2fw6 (with audio)
+* [with audio](https://streamable.com/ja2fw6)
 * https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
 
 
@@ -270,7 +262,7 @@ id: ca-losangeles-15
 
 **Links**
 
-* [https://twitter.com/liveinochi/status/1267504585926557696](https://twitter.com/liveinochi/status/1267504585926557696)
+* https://twitter.com/liveinochi/status/1267504585926557696
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
 
@@ -295,6 +287,7 @@ Instagram photographer documented and photographed LAPD shooting larger than nor
 id: ca-losangeles-18
 
 **Links**
+
 * https://www.instagram.com/p/CBCiZXOlno4/
 * https://www.dailynews.com/2020/06/03/dozens-arrested-in-downtown-los-angeles-tuesday-night-after-day-of-peaceful-protests/amp/
 * https://abc7.com/society/homeless-man-hit-in-face-with-rubber-bullet-amid-la-protest-witnesses-say/6234476/
@@ -303,7 +296,6 @@ id: ca-losangeles-18
 ### Police shoot unarmed man in a wheelchair in the face | June 2nd
 
 A man confined to a wheelchair is shot in the eye with a rubber bullet causing hemorrhaging from his eye. The man was unarmed and not protesting. Still photos show LAPD shooting non-lethal round at the man.
-
 This incident took place at [426 South Broadway](https://www.google.com/maps/place/426+S+Broadway,+Los+Angeles,+CA+90013,+USA/@34.0487865,-118.2504023,19z)
 
 id: ca-losangeles-17
@@ -319,14 +311,15 @@ id: ca-losangeles-17
 
 ### Police zip tie protesters and lock them inside cages | June 3rd
 
-Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners. 
+Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners.
 
 id: ca-losangeles-19
 
 **Links**
-*  https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t (video on third slide)
-*  https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a
-*  https://abc7.com/protest-arrest-george-floyd-curfews/6234180/
+
+* [video on third slide](https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t)
+* https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a
+* https://abc7.com/protest-arrest-george-floyd-curfews/6234180/
 
 
 ### Police fire projectiles at protesters and discharge teargas | June 5th
@@ -336,10 +329,10 @@ In Lakewood, police fire projectiles at protesters and discharge teargas.
 id: ca-los-angeles-20
 
 **Links**
+
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
-
 
 ## Oakland
 
@@ -364,7 +357,6 @@ id: ca-oakland-2
 
 * https://twitter.com/SarahBelleLin/status/1266980899301683200
 
-
 ## Riverside
 
 ### Law enforcement break a car window for no apparent reason | June 2nd
@@ -377,7 +369,6 @@ id: ca-riverside-1
 
 * https://old.reddit.com/r/PublicFreakout/comments/gv2lku/news_chopper_pans_out_as_riverside_county_sheriff/
 
-
 ## Sacramento
 
 ### Police shoot protester in the head | May 31st
@@ -387,6 +378,7 @@ A crowd of protesters demonstrating in front of a line of police officers was fi
 id: ca-sacramento-1
 
 **Links**
+
 * https://youtu.be/pRmBO34aXME
 * https://twitter.com/mynameschazz/status/1266978442722947072?s=21
 
@@ -413,7 +405,6 @@ id: ca-sacramento-3
 * [From perspective of woman pushed, where we see man being choked](https://twitter.com/greg_doucette/status/1268334584443342850)
 * [From a different angle, where we see filming woman pushed down](https://twitter.com/reereeisme65/status/1267378345894789125)
 
-
 ## San Diego
 
 ### Police kettle and fire on fleeing protestors | May 31st
@@ -438,7 +429,6 @@ id: ca-sandiego-1
 
 * [From perspective of women watching the abducted being pulled into the car and driving away](https://twitter.com/greg_doucette/status/1269009907367493634)
 
-
 ## San Francisco
 
 ### San Francisco law enforcement shove man off the sidewalk onto the ground | May 31st
@@ -450,7 +440,6 @@ id: ca-sanfrancisco-1
 **Links**
 
 * https://twitter.com/caseylc9/status/1267285516262596608
-
 
 ## San Jose
 
@@ -471,13 +460,13 @@ id: ca-sanjose-1
 
 ### Officer puts knee on neck of protester | May 29th
 
-A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck. 
+A police officer shoves aside another officer restraining a suspect so he can put his knee on the suspect's neck.
 
 id: ca-sanjose-3
 
 **Links**
 
-*  https://twitter.com/DeadByDawn101/status/1268825100385521665
+* https://twitter.com/DeadByDawn101/status/1268825100385521665
 
 
 ### Police fire on community activist | May 29th
@@ -492,7 +481,6 @@ id: ca-sanjose-2
 * https://abc7news.com/man-who-trains-san-jose-police-about-bias-severely-injured-by-riot-gun-during-protest/6234212/
 * https://www.latimes.com/california/story/2020-06-06/community-organizer-shot-by-rubber-bullet-during-protest
 
-
 ## San Luis Obispo
 
 ### Law enforcement fire on crowd with their arms up chanting | June 1st
@@ -504,7 +492,6 @@ id: ca-sanluisobispo-1
 **Links**
 
 * https://twitter.com/ma7dz/status/1267697838244298752
-
 
 ## Santa Ana
 
@@ -518,7 +505,6 @@ id: ca-santaana-1
 
 * https://twitter.com/YourAnonCentral/status/1266991237355069442
 
-
 ## Santa Monica
 
 ### Police fire pepper bullets into apartment | May 31st
@@ -530,7 +516,6 @@ id: ca-santamonica-1
 **Links**
 
 * https://twitter.com/GIFsZP/status/1267241803750813703
-
 
 ## Vallejo
 
@@ -544,7 +529,6 @@ id: ca-vallejo-1
 
 * https://www.theguardian.com/us-news/2020/jun/04/vallejo-police-kill-unarmed-man-california
 
-
 ## Walnut Creek
 
 ### Armored law enforcement vehicle threatens protestors | June 2nd
@@ -556,4 +540,3 @@ id: ca-walnutcreek-1
 **Links**
 
 * https://www.instagram.com/p/CA7KMc9pX5S/
-

@@ -24,14 +24,13 @@ id: oh-cincinnati-2
 
 ### Police arrest reporter and force him to ground, grab another reporter | June 1st
 
-Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well. 
-
-**Links**
+Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well.
 
 id: oh-cincinnati-3
 
-*  https://twitter.com/nswartsell/status/1267612155840528385
+**Links**
 
+* https://twitter.com/nswartsell/status/1267612155840528385
 
 ## Cleveland
 
@@ -55,7 +54,6 @@ id: oh-cleveland-2
 **Links**
 
 * https://twitter.com/rachelscotton/status/1266840734906318848
-
 
 ## Columbus
 
@@ -108,14 +106,14 @@ id: oh-columbus-4
 
 ### Officer chases reporter and pepper sprays her | May 30th
 
-A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times. 
+A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times.
 
 id: oh-columbus-15
 
 **Links**
 
-*  https://pressfreedomtracker.us/all-incidents/student-journalist-chased-pepper-sprayed-during-protests-columbus/
-*  https://twitter.com/julialwashere/status/1266730657436315649
+* https://pressfreedomtracker.us/all-incidents/student-journalist-chased-pepper-sprayed-during-protests-columbus/
+* https://twitter.com/julialwashere/status/1266730657436315649
 
 
 ### Police pepper-spray a medic | May 31st
@@ -125,6 +123,7 @@ Police point blank pepper spray a medic who was tending to a protestor
 id: oh-columbus-5
 
 **Links**
+
 * https://twitter.com/Katy38105157/status/1266816739444166656
 * https://twitter.com/SAColumbus/status/1266867613872857094
 
@@ -136,6 +135,7 @@ Police pepper spray a woman who was walking away from the confrontation
 id: oh-columbus-6
 
 **Links**
+
 * https://twitter.com/lalaitskelcey2/status/1266821476122058752
 * https://twitter.com/MarioLeUgly/status/1266933807929798656
 
@@ -147,13 +147,13 @@ Police drive their car towards protestors in order to disperse them
 id: oh-columbus-7
 
 **Links**
+
 * https://www.reddit.com/r/PublicFreakout/comments/gtq7i4/columbus_police_officer_trying_to_use_his_car_to/
 
 
 ### Police pepper spray two kneeling protesters | May 31st
 
 Location:  Intersection of E Broad Street and S Grant Avenue
-
 Two protesters are kneeling in a crosswalk across the intersection from a line of police. A police officer walks over and pepper sprays them.
 
 id: oh-columbus-8
@@ -215,7 +215,6 @@ id: oh-columbus-12
 ### Police push and pepper spray reporters from The Lantern newspaper | June 1st
 
 Location: Starbucks at the intersection of Lane Avenue and North High Street
-
 Three reporters repeatedly tell police that they are members of the press and show their passes. Reporters are exempt from curfew but the police instruct them to leave regardless, then spray the Lantern reporters with pepper spray.
 
 id: oh-columbus-13
@@ -236,6 +235,5 @@ id: oh-columbus-14
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
-* Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
-* Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
-
+* [Part 1:](https://www.tiktok.com/@zestaz/video/6833912697436867845)
+* [Part 2:](https://www.tiktok.com/@zestaz/video/6833913925231185158)
