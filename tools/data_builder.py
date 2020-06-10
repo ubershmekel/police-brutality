@@ -96,6 +96,7 @@ def parse_state(state, text):
             # We found a new city name so we must finish this `entry`
             # and start a fresh new one
             # Let the outer loop have this completed entry
+            entry["description"] = entry["description"].strip()
             yield entry
 
             # Start a new entry
@@ -139,9 +140,13 @@ def parse_state(state, text):
                 # Add a line to the description, but make sure there are no extra
                 # new lines surrounding it.
                 #entry["description"] = (entry["description"] + '\n' + line).strip()
+                # We want to allow as many newlines as are already in the middle of the description
+                # but not allow any extra newlines in the end or beginning. The only way
+                # to do that right now is right before we `yield`
                 entry["description"] += line + '\n'
 
     if entry and entry["links"]:
+        entry["description"] = entry["description"].strip()
         yield entry
     else:
         print(f"Failed links parse: missing links for {entry}")
