@@ -17,7 +17,7 @@ id: co-coloradosprings-1
 
 He states the officer aimed at him, and the pepper balls broke his press badge and drew blood
 
-id: co-denver-rylg
+id: co-denver-qegg
 
 **Links**
 

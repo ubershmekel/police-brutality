@@ -9,7 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    # `git push` would fail on `fatal: You are not currently on a branch` if `ref` was
+    # not specified here.
     - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
 
     - name: Set up Python 3.x
       uses: actions/setup-python@v2
@@ -36,7 +40,8 @@ jobs:
         git add reports
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "CI: Automated build push" -a | exit 0
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        git commit -m "Automated data fixes" -a | exit 0
         git push
 
     # Inspired by https://github.com/marketplace/actions/generate-documentation
