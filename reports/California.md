@@ -11,9 +11,12 @@ id: ca-clayton-1
 * https://twitter.com/CorinneAllen20/status/1268000716884283393
 * https://twitter.com/CliffBraun/status/1268038070667849728
 
+
 ### Slashing tires | June 2nd
 
 They done slashed them tires
+
+id: ca-clayton-bmef
 
 **Links**
 
