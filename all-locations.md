@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-10T00:49:23.705815+00:00
+UPDATED AT: 2020-06-10T00:53:32.957746+00:00
 
 
 # Alabama
@@ -73,7 +73,7 @@ id: al-huntsville-5
 
 An officer tackles a protestor that is walking home. The officer screams "put your hands behind your head" twice and then "stop resisting" twice, the protestor responds "I'm not". The officer yells "put your hands behind your head" several times, and the protestor responds "I'm trying".
 
-id: az-phoenix-1
+id: az-phoenix-gxpu
 
 **Links**
 
@@ -84,7 +84,7 @@ id: az-phoenix-1
 
 bla bla testing.
 
-id: az-phoenix-qure
+id: az-phoenix-ghje
 
 **Links**
 
