@@ -58,6 +58,7 @@ id: ia-desmoines-1
 
 * https://twitter.com/greg_doucette/status/1268235074580987906
 
+
 ### Police arrest a nonviolent Black cyclist at a BLM supply drop-off event | June 4th
 
 Police arrest a Black cyclist at a BLM supply drop-off event. The cyclist, with a Guy Fawkes mask, stands in the middle of a parking lot as two police officers handcuff him and pull him into their vehicle. After questioning him, they release him saying they “got the wrong guy".

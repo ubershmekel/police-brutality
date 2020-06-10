@@ -275,6 +275,7 @@ id: ny-newyorkcity-22
 ### NYPD Officers hit and knock down a protestor and a journalist | June 4th
 
 
+
 id: ny-newyorkcity-23
 
 **Links**

@@ -14,6 +14,7 @@ id: ma-boston-1
 ### A cop takes someone's protest sign and destroys it. | Unknown Date
 
 
+
 id: ma-boston-2
 
 **Links**
@@ -23,6 +24,7 @@ id: ma-boston-2
 ## Worcester
 
 ### Worcester police officers cover badge numbers during protest | June 1st
+
 
 
 id: ma-worcester-1
