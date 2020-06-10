@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T23:46:43.719595+00:00
+UPDATED AT: 2020-06-10T00:49:23.705815+00:00
 
 
 # Alabama
@@ -692,6 +692,7 @@ id: co-coloradosprings-1
 
 He states the officer aimed at him, and the pepper balls broke his press badge and drew blood
 
+id: co-denver-qegg
 
 **Links**
 
@@ -1356,6 +1357,7 @@ id: ia-desmoines-1
 
 * https://twitter.com/greg_doucette/status/1268235074580987906
 
+
 ### Police arrest a nonviolent Black cyclist at a BLM supply drop-off event | June 4th
 
 Police arrest a Black cyclist at a BLM supply drop-off event. The cyclist, with a Guy Fawkes mask, stands in the middle of a parking lot as two police officers handcuff him and pull him into their vehicle. After questioning him, they release him saying they “got the wrong guy".
@@ -1365,6 +1367,7 @@ id: ia-desmoines-6
 **Links**
 
 * https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0SHL6ULykmUX_V6Um-nOHiRQACj-r9XDDmvtIc-o5D10zVi9_3OTVaE
+
 
 ### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th
 
@@ -1525,6 +1528,7 @@ id: ma-boston-1
 ### A cop takes someone's protest sign and destroys it. | Unknown Date
 
 
+
 id: ma-boston-2
 
 **Links**
@@ -1534,6 +1538,7 @@ id: ma-boston-2
 ## Worcester
 
 ### Worcester police officers cover badge numbers during protest | June 1st
+
 
 
 id: ma-worcester-1
@@ -1969,6 +1974,7 @@ id: mn-minneapolis-20
 ### Police pepper spray and arrest protestor holding sign | May 30th
 
 
+
 id: mo-kansascity-5
 
 **Links**
@@ -2001,6 +2007,7 @@ id: mo-kansascity-1
 
 
 ### Kansas City police attempt to arrest a man leading the protest then spray the crowd | May 31st
+
 
 
 id: mo-kansascity-2
@@ -2392,6 +2399,7 @@ id: ny-newyorkcity-22
 
 
 ### NYPD Officers hit and knock down a protestor and a journalist | June 4th
+
 
 
 id: ny-newyorkcity-23
