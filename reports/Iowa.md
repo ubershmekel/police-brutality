@@ -58,6 +58,7 @@ id: ia-desmoines-1
 
 * https://twitter.com/greg_doucette/status/1268235074580987906
 
+
 ### Police arrest a nonviolent Black cyclist at a BLM supply drop-off event | June 4th
 
 Police arrest a Black cyclist at a BLM supply drop-off event. The cyclist, with a Guy Fawkes mask, stands in the middle of a parking lot as two police officers handcuff him and pull him into their vehicle. After questioning him, they release him saying they “got the wrong guy".
@@ -67,6 +68,7 @@ id: ia-desmoines-6
 **Links**
 
 * https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0SHL6ULykmUX_V6Um-nOHiRQACj-r9XDDmvtIc-o5D10zVi9_3OTVaE
+
 
 ### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th
 
